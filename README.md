@@ -49,7 +49,7 @@ lark-cli auth login --domain base --recommend
 npx clawhub@latest install lark-crm
 
 # 方法二：手动 clone
-git clone https://github.com/huangqianqian120/openclaw-feishucli-crm.git \
+git clone https://github.com/huangqianqian120/openclaw-crm-skill.git \
   ~/.local/lib/node_modules/openclaw/skills/lark-crm
 ```
 
