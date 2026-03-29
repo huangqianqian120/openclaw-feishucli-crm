@@ -1,4 +1,4 @@
-# openclaw-crm-skill: 飞书 CRM Skill (OpenClaw 版)
+# openclaw-crm-skill: 飞书 CRM Skill 
 
 > 通过自然语言对话，直接管理飞书多维表格中的 CRM 系统。专为 OpenClaw 打造。
 
